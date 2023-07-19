@@ -1,1 +1,1 @@
-﻿Console.WriteLine("2 Hello, World!");GCNotificationStatus
+﻿Console.WriteLine("2 Hello, World!");

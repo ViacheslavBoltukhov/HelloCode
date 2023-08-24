@@ -46,5 +46,3 @@ SelectionSortMinToMax(arr);
 PrintArray(arr);
 SelectionSortMaxToMin(arr);
 PrintArray(arr);
-
-
